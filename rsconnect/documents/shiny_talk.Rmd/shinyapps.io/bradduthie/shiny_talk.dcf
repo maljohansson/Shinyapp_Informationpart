@@ -1,0 +1,13 @@
+name: shiny_talk
+title: shiny_talk
+username:
+account: bradduthie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5862001
+bundleId: 5688916
+url: https://bradduthie.shinyapps.io/shiny_talk/
+when: 1647385201.87971
+lastSyncTime: 1647385201.87973
+asMultiple: FALSE
+asStatic: FALSE
